@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning python and fundamental knowledges of the cybersecurity
 - 💞️ I’m looking to collaborate on everything
 
+![VN](figures/VN2x.png)   ! [FR](figures/FR2x.png)
+
 
 <!---
 MinhHiepPHAM/MinhHiepPHAM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
