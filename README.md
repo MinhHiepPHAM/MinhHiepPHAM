@@ -5,7 +5,8 @@
 
 ![VN](figures/VN2x.png)&nbsp;&nbsp;&nbsp;&nbsp; ![FR](figures/FR2x.png)
 
-<img src="root-me.png" width="200" height="100" />
+<img src="figures/root-me.jpg" width="150" height="75" />
+<img src="figures/hacker.png" width="150" height="130" />
 
 <!---
 MinhHiepPHAM/MinhHiepPHAM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
